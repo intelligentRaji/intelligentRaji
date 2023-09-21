@@ -22,13 +22,8 @@ Commercetools
 
 </div>
 
----
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=intelligentRaji&theme=vue"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intelligentRaji&theme=vue"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intelligentRaji&theme=vue"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=intelligentRaji&theme=vue">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intelligentRaji&layout=compact">
 </div>
 
----
