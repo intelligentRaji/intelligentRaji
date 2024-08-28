@@ -26,8 +26,6 @@
 [![Jest][Jest]][Jest-url]
 [![Vitest][Vitest]][Vitest-url]
 [![Jasmine][Jasmine]][Jasmine-url]
-[![Markdown][Markdown]][Markdown-url]
-[![Markdown][Markdown]][Markdown-url]
 [![Figma][Figma]][Figma-url]
 [![Jira][Jira]][Jira-url]
 
@@ -81,8 +79,6 @@
 [Jasmine-url]: https://jasmine.github.io/
 [Vitest]: https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
 [Vitest-url]: https://vitest.dev/
-[Markdown]: https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white
-[Markdown-url]: https://www.markdownguide.org/
 [Figma]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
 [Figma-url]: https://www.figma.com/
 [Jira]: https://img.shields.io/badge/jira-blue.svg?style=for-the-badge&logo=jira&logoColor=white
