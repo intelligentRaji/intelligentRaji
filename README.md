@@ -85,9 +85,9 @@
 [Jira-url]: https://www.atlassian.com/
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=intelligentRaji&theme=vue"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=intelligentRaji&theme=transparent"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=intelligentraji&theme=transparent">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intelligentraji&layout=compact&theme=default"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intelligentraji&layout=compact&theme=transparent"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intelligentraji&theme=transparent"/>
 </div>
 
